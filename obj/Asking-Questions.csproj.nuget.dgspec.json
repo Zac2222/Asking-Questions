@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zac22\\Documents\\~Programming\\Level1\\program_Stuff\\Projects\\GitHubChallenges\\AskingQuestions\\Asking-Questions\\Asking-Questions.csproj": {}
+    "C:\\Users\\61006\\Zac's challenge\\Asking-Questions\\Asking-Questions.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zac22\\Documents\\~Programming\\Level1\\program_Stuff\\Projects\\GitHubChallenges\\AskingQuestions\\Asking-Questions\\Asking-Questions.csproj": {
+    "C:\\Users\\61006\\Zac's challenge\\Asking-Questions\\Asking-Questions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zac22\\Documents\\~Programming\\Level1\\program_Stuff\\Projects\\GitHubChallenges\\AskingQuestions\\Asking-Questions\\Asking-Questions.csproj",
+        "projectUniqueName": "C:\\Users\\61006\\Zac's challenge\\Asking-Questions\\Asking-Questions.csproj",
         "projectName": "Asking-Questions",
-        "projectPath": "C:\\Users\\zac22\\Documents\\~Programming\\Level1\\program_Stuff\\Projects\\GitHubChallenges\\AskingQuestions\\Asking-Questions\\Asking-Questions.csproj",
-        "packagesPath": "C:\\Users\\zac22\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zac22\\Documents\\~Programming\\Level1\\program_Stuff\\Projects\\GitHubChallenges\\AskingQuestions\\Asking-Questions\\obj\\",
+        "projectPath": "C:\\Users\\61006\\Zac's challenge\\Asking-Questions\\Asking-Questions.csproj",
+        "packagesPath": "C:\\Users\\61006\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\61006\\Zac's challenge\\Asking-Questions\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\zac22\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\61006\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
