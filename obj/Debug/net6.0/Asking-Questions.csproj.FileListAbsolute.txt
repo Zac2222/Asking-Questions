@@ -1,0 +1,15 @@
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\AskingQuestions\Asking-Questions\bin\Debug\net6.0\Asking-Questions.exe
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\AskingQuestions\Asking-Questions\bin\Debug\net6.0\Asking-Questions.deps.json
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\AskingQuestions\Asking-Questions\bin\Debug\net6.0\Asking-Questions.runtimeconfig.json
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\AskingQuestions\Asking-Questions\bin\Debug\net6.0\Asking-Questions.dll
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\AskingQuestions\Asking-Questions\bin\Debug\net6.0\Asking-Questions.pdb
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\AskingQuestions\Asking-Questions\obj\Debug\net6.0\Asking-Questions.csproj.AssemblyReference.cache
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\AskingQuestions\Asking-Questions\obj\Debug\net6.0\Asking-Questions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\AskingQuestions\Asking-Questions\obj\Debug\net6.0\Asking-Questions.AssemblyInfoInputs.cache
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\AskingQuestions\Asking-Questions\obj\Debug\net6.0\Asking-Questions.AssemblyInfo.cs
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\AskingQuestions\Asking-Questions\obj\Debug\net6.0\Asking-Questions.csproj.CoreCompileInputs.cache
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\AskingQuestions\Asking-Questions\obj\Debug\net6.0\Asking-Questions.dll
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\AskingQuestions\Asking-Questions\obj\Debug\net6.0\refint\Asking-Questions.dll
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\AskingQuestions\Asking-Questions\obj\Debug\net6.0\Asking-Questions.pdb
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\AskingQuestions\Asking-Questions\obj\Debug\net6.0\Asking-Questions.genruntimeconfig.cache
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\AskingQuestions\Asking-Questions\obj\Debug\net6.0\ref\Asking-Questions.dll
